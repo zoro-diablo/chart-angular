@@ -1,0 +1,35 @@
+{
+  "chartdata": [
+    
+      {
+        "year": 2023,
+        "amount": 5150,
+        "color": "rgba(171, 15, 90, 0.2)",
+        "borderColor": "rgb(118, 134, 245)"
+      },
+      {
+        "year": 2022,
+        "amount": 7776,
+        "color": "rgba(8, 56, 35, 0.2)",
+        "borderColor": "rgb(103, 48, 250)"
+      },
+      {
+        "year": 2022,
+        "amount": 5948,
+        "color": "rgba(104, 80, 97, 0.2)",
+        "borderColor": "rgb(143, 76, 150)"
+      },
+      {
+        "year": 2023,
+        "amount": 3335,
+        "color": "rgba(82, 193, 123, 0.2)",
+        "borderColor": "rgb(232, 140, 147)"
+      },
+      {
+        "year": 2020,
+        "amount": 15793,
+        "color": "rgba(218, 189, 214, 0.2)",
+        "borderColor": "rgb(160, 213, 243)"
+      }
+  ]
+}
